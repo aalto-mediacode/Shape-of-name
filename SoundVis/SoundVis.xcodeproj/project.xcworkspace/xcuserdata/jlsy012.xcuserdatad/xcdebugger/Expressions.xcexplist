@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ofApp::createParticles():ofApp.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ode">
+            </PersistentString>
+            <PersistentString
+               value = "speed">
+            </PersistentString>
+            <PersistentString
+               value = "text[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ofApp::saveImage():ofApp.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
